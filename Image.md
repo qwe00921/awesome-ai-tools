@@ -695,6 +695,8 @@
 - [SoulGen AI](https://soulgen-ai.com) - Free AI Image Generator to Create Art from Text. [Paid]
 - [Imagine with Meta AI](https://imagine.meta.com) - AI-powered tool for creating stunning, high-quality visual content.. [Free]
 - [GenType](https://labs.google) - Effortlessly generate high-quality, contextually relevant text with AI.. [Free]
+- [PhotoAnimate](https://photoanimate.net) - Image to Video, support sora 2, google veo 3.1, Wan, King [Freemium]
+
 
 
 -----
